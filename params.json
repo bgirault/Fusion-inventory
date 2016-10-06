@@ -1,0 +1,6 @@
+{
+  "name": "Fusion-inventory-script-cefim",
+  "tagline": "Fusion inventory",
+  "body": "Script de déploiement de l'agent fusion inventory vers glpi\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
